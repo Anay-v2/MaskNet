@@ -1,0 +1,2 @@
+CONTRAST ON PRIMARY
+			<Button class="not-hover:!bg-pink-500 !border-0 !text-white hover:!bg-pink-400"
